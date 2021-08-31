@@ -15,8 +15,11 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+# Christopher Lam's First CS193 Homework
+
+- Not too early in the day, but not too late
+- Fairly relaxing
+- A nice way to end the academic day
 
 1. Numbered
 2. List
